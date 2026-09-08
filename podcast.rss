@@ -4,18 +4,27 @@
     <title>刷新率</title>
     <link>https://oneliuss.github.io/podcast-rss/</link>
     <language>zh-cn</language>
-    <description>每天 15 分钟，刷新你对世界的认知 主播：小赫。每日 AI、科技数码、社会财经要闻速览与一条深读。</description>
+    <description>每天 15 分钟，刷新你对世界的认知 主播：小赫。每日 AI、科技数码、社会财经要闻速览与一条深读。本节目由 AI 合成音色播报，选题与文稿经人工策展。</description>
     <itunes:author>小赫</itunes:author>
     <itunes:image href="https://oneliuss.github.io/podcast-rss/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>刷新率 #1｜AI干的活已经是人类研究员的三倍</title>
-      <description>OpenAI首晒递归自我改进内部数据：1个人类工作日换3.1个智能体工作日；含14条要闻速览与一条深读。</description>
+      <description>【AI 合成音色播报】【AI合成音色播报】OpenAI首晒递归自我改进内部数据：1个人类工作日换3.1个智能体工作日；含14条要闻速览与一条深读。</description>
       <pubDate>Mon, 07 Sep 2026 08:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://oneliuss.github.io/podcast-rss/episodes/2026-09-07.mp3</guid>
-      <enclosure url="https://oneliuss.github.io/podcast-rss/episodes/2026-09-07.mp3" length="11330709" type="audio/mpeg"/>
-      <itunes:duration>15:44</itunes:duration>
+      <enclosure url="https://oneliuss.github.io/podcast-rss/episodes/2026-09-07.mp3" length="11192986" type="audio/mpeg"/>
+      <itunes:duration>15:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>刷新率 #2｜GPT-6自己通关了传送门</title>
+      <description>【AI 合成音色播报】【AI合成音色播报】GPT-6Astra自主通关传送门且首获Critical评级；工信部3.8万亿投智算集群；英特尔再涨价。</description>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://oneliuss.github.io/podcast-rss/episodes/2026-09-08.mp3</guid>
+      <enclosure url="https://oneliuss.github.io/podcast-rss/episodes/2026-09-08.mp3" length="11423072" type="audio/mpeg"/>
+      <itunes:duration>15:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
