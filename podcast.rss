@@ -27,5 +27,14 @@
       <itunes:duration>15:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>刷新率 #3｜一万个AI攻下了数学界90年悬赏</title>
+      <description>【AI 合成音色播报】【AI合成音色播报】OpenAI万级智能体88小时攻克NS方程难题待验证；苹果华为发布会今夜对撞；工信部智算大基建。</description>
+      <pubDate>Wed, 09 Sep 2026 08:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://shuaxinlv-podcast-1442561869.cos.ap-shanghai.myqcloud.com/episodes/2026-09-09.mp3</guid>
+      <enclosure url="https://shuaxinlv-podcast-1442561869.cos.ap-shanghai.myqcloud.com/episodes/2026-09-09.mp3" length="10467931" type="audio/mpeg"/>
+      <itunes:duration>14:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
