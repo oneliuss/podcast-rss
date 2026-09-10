@@ -36,5 +36,14 @@
       <itunes:duration>14:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>刷新率 #4｜折叠iPhone Duo来了，库克交棒了</title>
+      <description>【AI 合成音色播报】【AI合成音色播报】折叠iPhone Duo顶配26499元创纪录、库克交棒特努斯开启后库克时代；8月CPI回暖；Claude再曝安全事件。</description>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://shuaxinlv-podcast-1442561869.cos.ap-shanghai.myqcloud.com/episodes/2026-09-10.mp3</guid>
+      <enclosure url="https://shuaxinlv-podcast-1442561869.cos.ap-shanghai.myqcloud.com/episodes/2026-09-10.mp3" length="10674821" type="audio/mpeg"/>
+      <itunes:duration>14:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
